@@ -8,7 +8,8 @@ import ReactDOM from "react-dom";
 
 const customStyle = {
   color: "red",
-  fontSize: "20px"
+  fontSize: "20px",
+  border: "1px solid black"
 };
 
 ReactDOM.render(
